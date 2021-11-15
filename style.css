@@ -79,7 +79,7 @@ a:hover {
 /* Logo */
 
 #logo {
-	overflow: hidden;
+	overflow: visible;
 	height: 200px;
 }
 
