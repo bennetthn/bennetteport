@@ -8,7 +8,7 @@ Released for free under the Creative Commons Attribution License
 body {
 	margin: 0;
 	padding: 0;
-	background: #faea0e;
+	background: #ffef96;
 	font-family: "Gill Sans", sans-serif;
 	font-size: 18px;
 	color: #000000;
@@ -40,7 +40,7 @@ p, ul, ol {
 }
 
 ul, ol {
-	color: #faea0e
+	color: #ffef96
 }
 
 a {
@@ -54,7 +54,7 @@ a:hover {
 
 #wrapper {
 	overflow: hidden;
-	background: #faea0e;
+	background: #ffef96;
 }
 
 .container {
@@ -110,7 +110,7 @@ a:hover {
 	border: none;
 	background: none;
 	text-decoration: none;
-	color: #3C342E;
+	color: #000000;
 }
 
 
@@ -150,13 +150,13 @@ a:hover {
 	font-family: 'Oswald', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
-	color: #FFFFFF;
+	color: #82b74b;
 }
 
 #menu a:hover, #menu .current_page_item a {
 	background: #7D7764;
 	text-decoration: none;
-	color: #FFFFFF;
+	color: #82b74b;
 }
 
 #menu .current_page_item a {
@@ -193,17 +193,17 @@ a:hover {
 	line-height: normal;
 	text-align: center;
 	text-shadow: 1px 1px 0px #FFFFFF;
-	color: #909090;
+	color: #50394c;
 }
 
 #footer a {
 	text-decoration: underline;
-	color: #909090;
+	color: #50394c;
 }
 
 #footer a:hover {
 	text-decoration: none;
-	color: #383838;
+	color: #50394c;
 }
 
 .box1 {
@@ -237,7 +237,7 @@ a:hover {
 }
 
 .box-style {
-	background: #FFFFFF;
+	background: #b2b2b2;
 	text-align: center;
 }
 
@@ -245,7 +245,7 @@ a:hover {
 	padding: 10px 0px;
 	letter-spacing: -1px;
 	font-size: 22px;
-	color: #2D2D2D;
+	color: #b2b2b2;
 }
 
 .box-style .content {
@@ -258,7 +258,7 @@ a:hover {
 {
 	display: inline-block;
 	margin: 1em 0em;
-	background: #000;
+	background: #50394c;
 	padding: 1em 2em;
 	color: #FFFFFF;
 }
