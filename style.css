@@ -39,12 +39,18 @@ p, ul, ol {
 	line-height: 180%;
 }
 
+ul, ol {
+	color: #faea0e
+}
 
 a {
 	text-decoration: none;
 	color: #5BA689;
 }
 
+a:hover {
+	color: #fa0e9f
+}
 
 #wrapper {
 	overflow: hidden;
@@ -153,6 +159,9 @@ a {
 	color: #FFFFFF;
 }
 
+#menu .current_page_item a {
+	color: #00ff2a
+}
 
 /* Page */
 
