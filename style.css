@@ -8,10 +8,10 @@ Released for free under the Creative Commons Attribution License
 body {
 	margin: 0;
 	padding: 0;
-	background: #E5E6DD;
-	font-family: 'Oxygen', sans-serif;
-	font-size: 13px;
-	color: #8A8985;
+	background: #faea0e;
+	font-family: "Gill Sans", sans-serif;
+	font-size: 18px;
+	color: #000000;
 }
 
 h1, h2, h3 {
@@ -40,6 +40,7 @@ p, ul, ol {
 }
 
 ul, ol {
+	color: #faea0e
 }
 
 a {
@@ -48,11 +49,12 @@ a {
 }
 
 a:hover {
+	color: #fa0e9f
 }
 
 #wrapper {
 	overflow: hidden;
-	background: #F1F2E9;
+	background: #faea0e;
 }
 
 .container {
@@ -158,6 +160,7 @@ a:hover {
 }
 
 #menu .current_page_item a {
+	color: #00ff2a
 }
 
 /* Page */
