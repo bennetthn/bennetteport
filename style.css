@@ -19,7 +19,7 @@ h1, h2, h3 {
 	padding: 0;
 	text-transform: uppercase;
 	font-weight: 300;
-	color: #7D7764;
+	color: #50394c;
 }
 
 h1 {
@@ -99,11 +99,11 @@ a:hover {
 	padding: 0px 0px 0px 5px;
 	font-size: 20px;
 	font-weight: 300;
-	color: #696969;
+	color: #50394c;
 }
 
 #logo p a {
-	color: #696969;
+	color: #50394c;
 }
 
 #logo a {
@@ -245,7 +245,7 @@ a:hover {
 	padding: 10px 0px;
 	letter-spacing: -1px;
 	font-size: 22px;
-	color: #b2b2b2;
+	color: #50394c;
 }
 
 .box-style .content {
