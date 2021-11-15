@@ -71,7 +71,7 @@ a:hover {
 
 #header {
 	width: 960px;
-	height: 200px;
+	height: 250px;
 	margin: 0 auto;
 	padding: 0px 20px;
 }
@@ -80,7 +80,7 @@ a:hover {
 
 #logo {
 	overflow: hidden;
-	height: 150px;
+	height: 200px;
 }
 
 #logo h1, #logo p {
